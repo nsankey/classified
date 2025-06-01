@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1748741017|1034520753';
+const CACHE_VERSION = '1748816169|161400168';
 /** @type {string} */
-const CACHE_PREFIX = 'TestGodotMobile-sw-cache-';
+const CACHE_PREFIX = 'RazorformDatabas-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
